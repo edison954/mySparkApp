@@ -1,0 +1,22 @@
+ver version instalada
+spark-shell
+
+ejecutar
+%SPARK_HOME%\bin\spark-submit --class org.apache.spark.deploy.dotnet.DotnetRunner --master local bin\Debug\netcoreapp3.1\microsoft-spark-2.4.x-0.12.1.jar dotnet bin\Debug\netcoreapp3.1\mySparkApp.dll
+
+
+Building Spark .NET on Windows
+https://github.com/dotnet/spark/blob/master/docs/building/windows-instructions.md
+
+
+Getting Started with Spark .NET on Windows
+https://github.com/dotnet/spark/blob/master/docs/getting-started/windows-instructions.md
+
+
+.NET for Apache® Spark™
+https://github.com/dotnet/spark#supported-apache-spark
+
+
+Tutorial
+https://dotnet.microsoft.com/learn/data/spark-tutorial/intro
+https://docs.microsoft.com/en-us/dotnet/spark/tutorials/get-started

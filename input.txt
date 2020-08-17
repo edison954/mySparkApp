@@ -1,0 +1,5 @@
+
+ World
+ This .NET app uses .NET for Apache Spark
+ This .NET app counts words with Apache Spark
+
